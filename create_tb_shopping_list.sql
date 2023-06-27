@@ -1,11 +1,2 @@
-INSERT INTO shopping_list VALUES
-(1, 'Milk', '30', '5'),
-(2, 'Cheese', '330', '3'),
-(3, 'Bread', '20.50', '2'),
-(4, 'Tomato', '80', '1'),
-(5, 'Mushroom', '95.90', '2'),
-(6, 'Sausage', '200', '2'),
-(7, 'Pasta', '40', '5'),
-(8, 'Ketchup', '35', '1'),
-(9, 'Coffee', '130.45', '4'),
-(10, 'Eggs', '30', '3');
+CREATE TABLE shopping_list
+(id INT, product_name VARCHAR(40), price FLOAT(100,2), quantity INT, PRIMARY KEY (`id`));
