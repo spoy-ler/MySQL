@@ -22,3 +22,12 @@ Insert values into shopping_list table [SQL query](https://github.com/spoy-ler/M
 Create the fridge table [SQL query](https://github.com/spoy-ler/MySQL/blob/main/create_tb_fridge.sql) <br>
 Insert values into fridge table [SQL query](https://github.com/spoy-ler/MySQL/blob/main/insert_into_fridge.sql) <br>
 Link fridge table to the shopping list table using a foreign key [SQL query](https://github.com/spoy-ler/MySQL/blob/main/add_foreign_key.sql) <br> 
+Add 10 products to the fridge table, 5 of which are in shopping_list [SQL query](https://github.com/spoy-ler/MySQL/blob/main/insert_into_fridge_new_values.sql) <br> 
+Query that displays products that are not in the shopping_list table [SQL query](https://github.com/spoy-ler/MySQL/blob/main/select_product_from_fridge.sql) <br> 
+Display information from the shopping_list table about the most expensive product [SQL query](https://github.com/spoy-ler/MySQL/blob/main/max_price_from_SL.sql) <br> 
+Display information from the shopping_list table about the cheapest product [SQL query](https://github.com/spoy-ler/MySQL/blob/main/min_price_from_SL.sql) <br> 
+Calculate the average cost of products from the shopping_list table [SQL query](https://github.com/spoy-ler/MySQL/blob/main/avg_price_from_SL.sql) <br> 
+Display information from the fridge about the number of products [SQL query](https://github.com/spoy-ler/MySQL/blob/main/count_all_from_f.sql) <br> 
+Display information from the fridge about number of products in the shopping list [SQL query](https://github.com/spoy-ler/MySQL/blob/main/count_SL_from_f.sql) <br> 
+Display information from the fridge about the total number of all products in the fridge table [SQL query](https://github.com/spoy-ler/MySQL/blob/main/sum_from_f.sql) <br> 
+Display information about the number of products and their names (select columns from the fridge table). Group the result by expiration date [SQL query](https://github.com/spoy-ler/MySQL/blob/main/group_by_from_f.sql) <br> 
