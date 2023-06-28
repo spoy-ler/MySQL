@@ -49,5 +49,4 @@ The repository contains the following queries:
 
 The <b>Entity Relationship Diagram</b> of created database:<br><br>
 <img src="https://github.com/spoy-ler/MySQL/blob/main/Screenshot_30.png"
-  width = 50%
-  height = 50%>
+  width = 580vh>
