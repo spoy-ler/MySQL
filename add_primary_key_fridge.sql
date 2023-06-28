@@ -1,0 +1,2 @@
+ALTER TABLE fridge
+ADD PRIMARY KEY (item_id);
